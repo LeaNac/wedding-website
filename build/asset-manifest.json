@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wedding-website/static/css/main.3ac87504.css",
+    "main.js": "/wedding-website/static/js/main.93d4f392.js",
+    "static/js/787.b26ea9af.chunk.js": "/wedding-website/static/js/787.b26ea9af.chunk.js",
+    "static/media/vue_lac.png": "/wedding-website/static/media/vue_lac.98fb596f7032677ee663.png",
+    "static/media/fete.png": "/wedding-website/static/media/fete.9b69360baf0a05962003.png",
+    "static/media/japonese_couple.webp": "/wedding-website/static/media/japonese_couple.db4084179b903135d0c5.webp",
+    "index.html": "/wedding-website/index.html",
+    "main.3ac87504.css.map": "/wedding-website/static/css/main.3ac87504.css.map",
+    "main.93d4f392.js.map": "/wedding-website/static/js/main.93d4f392.js.map",
+    "787.b26ea9af.chunk.js.map": "/wedding-website/static/js/787.b26ea9af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac87504.css",
+    "static/js/main.93d4f392.js"
+  ]
+}
