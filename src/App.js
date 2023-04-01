@@ -34,7 +34,7 @@ const App = () => {
               <li><strong> Date :</strong> Mercredi 14 Juin 2023</li>
               <li>👰🏻‍♀️ Cérémonie - <b>16h30</b>,🍷 Vin d'honneur</li>
               <li>Hotel de Ville, Saint-Maur-des-Fossés</li>
-              <li>6 rue de la Mairie, 94100</li>
+              <li>Av. Charles de Gaulle, 94100</li>
             </ol>
             </div>
 
